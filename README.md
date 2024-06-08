@@ -1,6 +1,6 @@
 ## Getting Started
 
-Bem-vindo ao mundo Java do VS Code. 
+Bem-vindo ao mundo Java do VS Code. ☕♨
 
 - Repositório para armazenar o conteúdo sobre a dominação da linguagem de programação.  
 
