@@ -22,6 +22,6 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
 
 
